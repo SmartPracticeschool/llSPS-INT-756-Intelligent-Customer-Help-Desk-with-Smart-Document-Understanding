@@ -1,0 +1,56 @@
+{
+  "matching_results": 130,
+  "passages": [],
+  "results": [
+    {
+      "enriched_text": {
+        "categories": [
+          {
+            "label": "/business and industrial/energy",
+            "score": 0.69535
+          },
+          {
+            "label": "/business and industrial/green solutions",
+            "score": 0.643533
+          },
+          {
+            "label": "/business and industrial/business operations",
+            "score": 0.633224
+          }
+        ],
+        "concepts": [
+          {
+            "dbpedia_resource": "http://dbpedia.org/resource/Fahrenheit",
+            "relevance": 0.909247,
+            "text": "Fahrenheit"
+          },
+          {
+            "dbpedia_resource": "http://dbpedia.org/resource/Temperature",
+            "relevance": 0.884008,
+            "text": "Temperature"
+          },
+          {
+            "dbpedia_resource": "http://dbpedia.org/resource/Celsius",
+            "relevance": 0.884008,
+            "text": "Celsius"
+          },
+          {
+            "dbpedia_resource": "http://dbpedia.org/resource/Absolute_zero",
+            "relevance": 0.796623,
+            "text": "Absolute zero"
+          },
+          {
+            "dbpedia_resource": "http://dbpedia.org/resource/Boiling_point",
+            "relevance": 0.746836,
+            "text": "Boiling point"
+          },
+          {
+            "dbpedia_resource": "http://dbpedia.org/resource/Thermodynamic_temperature",
+            "relevance": 0.586845,
+            "text": "Thermodynamic temperature"
+          }
+        ],
+        "entities": [],
+        "sentiment": {
+          "document": {
+            "label": "neutral",
