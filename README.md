@@ -21,4 +21,4 @@ Build a web application with integration to all these services & deploy the same
 
 Node-Red Dashboard link After deploying : https://node-red-mjpfp.eu-gb.mybluemix.net/ui
 
-You-Tube video link is : 
+You-Tube video link is : https://youtu.be/Dn7C7-KLuyA
